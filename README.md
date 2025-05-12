@@ -84,7 +84,8 @@ Provide Amazon Prime's content strategy team with a high-level view of:
 
 6. Screenshots
 
-[Dashboard](https://github.com/vaisharma16/Amazon-Prime-Content-Analytics-Dashboard/blob/main/Amazon%20PV%20BI%20Dashboard.png)
+![Dashboard](https://github.com/vaisharma16/Amazon-Prime-Content-Analytics-Dashboard/blob/main/Amazon%20PV%20BI%20Dashboard.png)
+
 
 ---
 ## References:
