@@ -81,10 +81,15 @@ Provide Amazon Prime's content strategy team with a high-level view of:
 4. Customize visuals or data model as needed for further insights  
 
 ---
+
+6. Screenshots
+
+[Dashboard](https://github.com/vaisharma16/Amazon-Prime-Content-Analytics-Dashboard/blob/main/Amazon%20PV%20BI%20Dashboard.png)
+---
 ## References:
 
 - YouTube Tutorial: [Create an Amazing Power BI Dashboard in 19 minutes | Netflix Movies and TV Shows (DataScience RoadMap)](https://www.youtube.com/watch?v=_xs8XXlGQVM&t=1s)
-
+---
 ## 👨‍💻 Author  
 
 Vaibhav Sharma – Data Enthusiast & Dashboard Developer  
